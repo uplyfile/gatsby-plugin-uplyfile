@@ -1,0 +1,24 @@
+{
+    "name": "gatsby-plugin-uplyfile",
+    "description": "Library gatsby plugin for uplyfile utils. https://uplyfile.com",
+    "version": "0.0.1",
+    "bugs": {
+        "url": "https://github.com/uplyfile/gatsby-plugin-uplyfile/issues"
+    },
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.2",
+        "unist-util-select": "^1.5.0",
+        "slash": "^1.0.0",
+        "lodash": "^4.17.10",
+        "is-relative-url": "^2.0.0",
+        "unist-util-visit-parents": "^2.0.1"
+    },
+    "keywords": [
+        "favicon",
+        "gatsby",
+        "gatsby-plugin",
+        "images",
+        "seo",
+        "uplyfile"
+    ]
+}
